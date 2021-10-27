@@ -18,7 +18,7 @@ body{
 .container{
     /* transform: scale(0.85); */
     width: 30%;
-    margin: 88px auto;
+    margin: 96px auto;
     /* margin: 0 auto; */
     box-shadow: 0 1px 20px rgba(0, 0, 0, 0.1);
     border-radius: 15px;
@@ -185,5 +185,9 @@ main p{
     main p.description{
         font-weight: 500;
         letter-spacing: 1.2px;
+    }
+
+    .container{
+        width: 90%;
     }
 }
