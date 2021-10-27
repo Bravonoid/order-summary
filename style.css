@@ -141,7 +141,6 @@ main p{
     font-size: 1em;
     cursor: pointer;
     transition: 0.2s;
-    border: 2px solid black;
 }
 
 /* ATTRIBUTION */
@@ -194,6 +193,6 @@ main p{
     }
 
     .cancel{
-        width: 60%;
+        width: 100%;
     }
 }
