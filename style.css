@@ -187,4 +187,8 @@ main p{
         font-weight: 500;
         letter-spacing: 1.2px;
     }
+
+    .attribution{
+        display: none;
+    }
 }
