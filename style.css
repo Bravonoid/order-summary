@@ -179,7 +179,9 @@ main p{
         background-image: url(images/pattern-background-mobile.svg);
         background-repeat: no-repeat;
         background-size: cover;
-        font-size: 1.05em;
+        font-size: 1em;
+        box-sizing: border-box;
+        padding: 10px;
     }
 
     main p.description{
@@ -188,6 +190,10 @@ main p{
     }
 
     .container{
-        width: 90%;
+        width: 100%;
+    }
+
+    main{
+        padding: 36px 20px;
     }
 }
